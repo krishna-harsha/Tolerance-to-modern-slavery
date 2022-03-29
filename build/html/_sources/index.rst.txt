@@ -11,6 +11,7 @@
    :maxdepth: 2
    :caption: Contents:
    
+   additional/Authors.rst
    additional/Introduction.rst
    additional/paper.rst
    demo.ipynb 
